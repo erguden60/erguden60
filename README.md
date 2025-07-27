@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @erguden60
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Merhaba, ben Emirhan Ergüden!
 
-<!---
-erguden60/erguden60 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Ben bir **Frontend Developer**'ım. Kullanıcı dostu, modern ve performanslı arayüzler geliştirmeyi seviyorum. Web teknolojilerine olan ilgimle, hem bireysel projeler hem de ekip çalışmaları içinde sürekli olarak kendimi geliştirmeye odaklanıyorum.
+
+## 🚀 Kullandığım Teknolojiler
+
+- 🧱 **HTML5** – Semantik ve erişilebilir yapılar
+- 🎨 **CSS3 / TailwindCSS** – Modern, responsive ve mobil uyumlu tasarımlar
+- 💡 **JavaScript (ES6+)** – Dinamik kullanıcı etkileşimleri
+- ⚛️ **React.js** – Bileşen tabanlı uygulama geliştirme
+- 🌐 **Next.js** – SSR/SSG ile performanslı modern web uygulamaları
+- 🟦 **TypeScript** – Güvenli ve ölçeklenebilir kod yazımı
+
+## 🛠️ Geliştirme Araçlarım
+
+- VS Code, Git & GitHub
+- Figma ile UI prototipleme
+- Postman, Vercel, Netlify, Firebase
+
+
+
+
+
+## 📈 Hedefim
+
+Kod yazarken sadece çalışmasını değil, **anlaşılır ve sürdürülebilir** olmasını da önemsiyorum. Kullanıcı deneyimini önceleyen, hızlı ve estetik uygulamalar geliştirmek en büyük önceliğim.
+
+---
+
+
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
